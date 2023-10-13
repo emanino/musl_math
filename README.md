@@ -1,5 +1,5 @@
 # musl_math
-Plain C operational models of the math.h library.
+Plain C operational models of the math.h library. These files were extracted from the MUSL standard C library.
 
 1. **op_models_full** supports all float, double and long double operations (except for complex numbers)
 
